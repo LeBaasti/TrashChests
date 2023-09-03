@@ -1,0 +1,4 @@
+name: TrashChests
+version: '${version}'
+main: de.lebaasti.TrashChests
+api-version: '1.20'
